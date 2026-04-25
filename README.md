@@ -1,4 +1,4 @@
-# JBDL11_EWallet
+# E-Wallet
 
 # Create User API
 postman request POST 'http://localhost:8080/user-service/create/user' \
