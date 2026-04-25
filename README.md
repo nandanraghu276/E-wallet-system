@@ -1,7 +1,7 @@
-# JBDL11_EWallet - API Specification
+# E-Wallet System - API Specification
 
 ## Overview
-JBDL11_EWallet is a microservices-based digital wallet application built with Java. The system is composed of multiple services handling user management, authentication, and financial transactions.
+E-Wallet system is a microservices-based digital wallet application built with Java. The system is composed of multiple services handling user management, authentication, and financial transactions.
 
 ## Architecture
 - **User Service**: Handles user registration and OTP verification (Port: 8080)
